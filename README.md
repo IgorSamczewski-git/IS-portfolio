@@ -22,8 +22,8 @@
 [<img align="left" alt="IgorSamczewski | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[gmail]: igor.samczewski@gmail.com
-[linkedin]: https://linkedin.com/in/joshmadakor
+[gmail]: mailto:igor.samczewski@gmail.com
+[linkedin]: www.linkedin.com/in/igor-samczewski-a93507354
 
 <!--
 
