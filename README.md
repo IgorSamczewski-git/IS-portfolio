@@ -10,7 +10,7 @@
   - [3D Print Cleaner Station Cover in SW](https://github.com/IgorSamczewski-git) (coming soon...)
 
 - <b>Tinkering</b>
-  - [Modding My 3D Printer](https://github.com/IgorSamczewski-git)
+  - [Modding My 3D Printer](https://github.com/IgorSamczewski-git/Silent_3D_Printer)
   
 - <b>Bachelor Thesis</b>
   - [(ENG) Postprocessing of 3D Titanium Printouts](https://github.com/IgorSamczewski-git/Postprocessing_3D_printouts)
