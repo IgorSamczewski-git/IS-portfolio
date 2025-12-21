@@ -1,4 +1,4 @@
-<h1>Hi, I'm Igor! <br/><a href="https://github.com/oj00r">Automation Engineering Student</a>
+<h1>Hi, I'm Igor! <br/><a href="https://github.com/IgorSamczewski-git">Automation Engineering Student</a>
 
 <h2>👨‍💻 Projects:</h2>
 
