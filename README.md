@@ -3,17 +3,17 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C++</b>
-  - [Expenses Calculator with SQLite](https://github.com/oj00r) (coming soon...)
+  - [Expenses Calculator with SQLite](https://github.com/IgorSamczewski-git) (coming soon...)
  
 - <b>CAD</b>
-  - [Leg Prostheis in Creo](https://github.com/oj00r/Leg_Prostheis)
-  - [3D Print Cleaner Station Cover in SW](https://github.com/oj00r)
+  - [Leg Prostheis in Creo](https://github.com/IgorSamczewski-git/Leg_Prostheis)
+  - [3D Print Cleaner Station Cover in SW](https://github.com/IgorSamczewski-git)
 
 - <b>Tinkering<b>
-  - [Modding My 3D Printer](https://github.com/oj00r)
+  - [Modding My 3D Printer](https://github.com/IgorSamczewski-git)
   
 - <b>Bachelor Thesis</b>
-  - [(ENG) Postprocessing of 3D Titanium Printouts](https://github.com/oj00r/Postprocessing_3D_printouts)
+  - [(ENG) Postprocessing of 3D Titanium Printouts](https://github.com/IgorSamczewski-git/Postprocessing_3D_printouts)
 
 
 <h2> 🤳 Contact me:</h2>
