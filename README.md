@@ -9,7 +9,7 @@
   - [Leg Prostheis in Creo](https://github.com/IgorSamczewski-git/Leg_Prostheis)
   - [3D Print Cleaner Station Cover in SW](https://github.com/IgorSamczewski-git)
 
-- <b>Tinkering<b>
+- <b>Tinkering</b>
   - [Modding My 3D Printer](https://github.com/IgorSamczewski-git)
   
 - <b>Bachelor Thesis</b>
