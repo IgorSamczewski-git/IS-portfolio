@@ -23,7 +23,7 @@
 
 
 [gmail]: mailto:igor.samczewski@gmail.com
-[linkedin]: www.linkedin.com/in/igor-samczewski-a93507354
+[linkedin]: www.linkedin.com/in/igor-samczewski
 
 <!--
 
